@@ -6,3 +6,7 @@ IKOA E CATALOG
 - Jerry Fitriansyah / 2109106067
 - Maulana Muhammad Hafidz / 2109106070
 - Mohammad Fhadil Hafids Harsandi / 2109106072
+
+Testing Login : 
+Email : admin@example.com
+password : admin!234
